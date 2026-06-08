@@ -33,30 +33,4 @@ Layanan	Tarif per Kg	Estimasi
 Reguler	Rp12.000	3-4 Hari Kerja
 Express	Rp20.000	1-2 Hari Kerja
 Same Day	Rp35.000	Hari Ini
-Cara Menjalankan Program
-Pastikan Python sudah terinstall.
-Clone repository:
-git clone https://github.com/username/nama-repository.git
-Masuk ke folder project:
-cd nama-repository
-Jalankan program:
-python pengiriman.py
-Contoh Penggunaan
 
-Input:
-
-Nama Pengirim : Kevin
-Nama Penerima : Budi
-Berat Paket : 5
-Panjang : 50
-Lebar : 30
-Tinggi : 20
-
-Output:
-
-Berat Aktual : 5 kg
-Berat Volume : 5 kg
-Berat Tagih  : 5 kg
-TOTAL BIAYA  : Rp 62000
-
-Kevin Herlambang
